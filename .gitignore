@@ -1,0 +1,17 @@
+Marlin/COPYING
+Marlin/Makefile
+.travis.yml
+*.o
+applet/
+*~
+*.orig
+*.rej
+*.bak
+*.h
+*.cpp
+ArduinoAddons/
+*.pdf
+*.ino
+*.xlsx
+*.py
+
